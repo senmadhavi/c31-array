@@ -1,3 +1,14 @@
+var array = ["name",55,6.3,true];
+
+
+array.push("maddy");
+
+array.pop();
+console.log(array);
+
+
+
+
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
